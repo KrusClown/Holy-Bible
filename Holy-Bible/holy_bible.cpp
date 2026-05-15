@@ -523,7 +523,183 @@ void buildBibleTree(){
  addV(b,145,18,"The LORD is nigh unto all them that call upon him, to all that call upon him in truth.");
  addV(b,147,3,"He healeth the broken in heart, and bindeth up their wounds.");
  addV(b,150,1,"Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.");
+ addV(b,150,2,"Praise him for his mighty acts: praise him according to his excellent greatness.");
+ addV(b,150,3,"Praise him with the sound of the trumpet: praise him with the psaltery and harp.");
+ addV(b,150,4,"Praise him with the timbrel and dance: praise him with stringed instruments and organs.");
+ addV(b,150,5,"Praise him upon the loud cymbals: praise him upon the high sounding cymbals.");
  addV(b,150,6,"Let every thing that hath breath praise the LORD. Praise ye the LORD.");
+ // --- Additional Psalms (filling gaps) ---
+ addV(b,2,7,"I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.");
+ addV(b,2,12,"Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.");
+ addV(b,3,3,"But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head.");
+ addV(b,3,5,"I laid me down and slept; I awaked; for the LORD sustained me.");
+ addV(b,4,7,"Thou hast put gladness in my heart, more than in the time that their corn and wine increased.");
+ addV(b,4,8,"I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.");
+ addV(b,5,3,"My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.");
+ addV(b,5,12,"For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield.");
+ addV(b,7,10,"My defence is of God, which saveth the upright in heart.");
+ addV(b,9,9,"The LORD also will be a refuge for the oppressed, a refuge in times of trouble.");
+ addV(b,9,10,"And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.");
+ addV(b,10,17,"LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:");
+ addV(b,13,5,"But I have trusted in thy mercy; my heart shall rejoice in thy salvation.");
+ addV(b,13,6,"I will sing unto the LORD, because he hath dealt bountifully with me.");
+ addV(b,15,1,"LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?");
+ addV(b,15,2,"He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.");
+ addV(b,16,8,"I have set the LORD always before me: because he is at my right hand, I shall not be moved.");
+ addV(b,16,11,"Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.");
+ addV(b,17,8,"Keep me as the apple of the eye, hide me under the shadow of thy wings,");
+ addV(b,18,1,"I will love thee, O LORD, my strength.");
+ addV(b,18,2,"The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.");
+ addV(b,18,46,"The LORD liveth; and blessed be my rock; and let the God of my salvation be exalted.");
+ addV(b,20,7,"Some trust in chariots, and some in horses: but we will remember the name of the LORD our God.");
+ addV(b,24,3,"Who shall ascend into the hill of the LORD? or who shall stand in his holy place?");
+ addV(b,24,4,"He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.");
+ addV(b,25,4,"Shew me thy ways, O LORD; teach me thy paths.");
+ addV(b,25,5,"Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.");
+ addV(b,25,14,"The secret of the LORD is with them that fear him; and he will shew them his covenant.");
+ addV(b,28,7,"The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.");
+ addV(b,29,3,"The voice of the LORD is upon the waters: the God of glory thundereth: the LORD is upon many waters.");
+ addV(b,29,11,"The LORD will give strength unto his people; the LORD will bless his people with peace.");
+ addV(b,31,3,"For thou art my rock and my fortress; therefore for thy name's sake lead me, and guide me.");
+ addV(b,31,5,"Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth.");
+ addV(b,31,24,"Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.");
+ addV(b,33,4,"For the word of the LORD is right; and all his works are done in truth.");
+ addV(b,33,18,"Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;");
+ addV(b,34,1,"I will bless the LORD at all times: his praise shall continually be in my mouth.");
+ addV(b,34,7,"The angel of the LORD encampeth round about them that fear him, and delivereth them.");
+ addV(b,34,18,"The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.");
+ addV(b,36,5,"Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds.");
+ addV(b,36,9,"For with thee is the fountain of life: in thy light shall we see light.");
+ addV(b,37,7,"Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way.");
+ addV(b,37,23,"The steps of a good man are ordered by the LORD: and he delighteth in his way.");
+ addV(b,37,25,"I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.");
+ addV(b,38,9,"Lord, all my desire is before thee; and my groaning is not hid from thee.");
+ addV(b,40,2,"He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings.");
+ addV(b,40,3,"And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD.");
+ addV(b,41,1,"Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.");
+ addV(b,42,2,"My soul thirsteth for God, for the living God: when shall I come and appear before God?");
+ addV(b,42,5,"Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.");
+ addV(b,43,3,"O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.");
+ addV(b,44,8,"In God we boast all the day long, and praise thy name for ever.");
+ addV(b,47,1,"O clap your hands, all ye people; shout unto God with the voice of triumph.");
+ addV(b,48,1,"Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness.");
+ addV(b,48,14,"For this God is our God for ever and ever: he will be our guide even unto death.");
+ addV(b,51,2,"Wash me throughly from mine iniquity, and cleanse me from my sin.");
+ addV(b,51,7,"Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.");
+ addV(b,55,17,"Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.");
+ addV(b,55,22,"Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.");
+ addV(b,56,3,"What time I am afraid, I will trust in thee.");
+ addV(b,56,4,"In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.");
+ addV(b,57,5,"Be thou exalted, O God, above the heavens; let thy glory be above all the earth.");
+ addV(b,62,1,"Truly my soul waiteth upon God: from him cometh my salvation.");
+ addV(b,62,5,"My soul, wait thou only upon God; for my expectation is from him.");
+ addV(b,62,8,"Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us.");
+ addV(b,63,3,"Because thy lovingkindness is better than life, my lips shall praise thee.");
+ addV(b,63,7,"Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.");
+ addV(b,65,11,"Thou crownest the year with thy goodness; and thy paths drop fatness.");
+ addV(b,66,1,"Make a joyful noise unto God, all ye lands.");
+ addV(b,66,5,"Come and see the works of God: he is terrible in his doing toward the children of men.");
+ addV(b,66,20,"Blessed be God, which hath not turned away my prayer, nor his mercy from me.");
+ addV(b,67,1,"God be merciful unto us, and bless us; and cause his face to shine upon us;");
+ addV(b,67,2,"That thy way may be known upon earth, thy saving health among all nations.");
+ addV(b,68,19,"Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation.");
+ addV(b,71,5,"For thou art my hope, O Lord GOD: thou art my trust from my youth.");
+ addV(b,71,14,"But I will hope continually, and will yet praise thee more and more.");
+ addV(b,72,19,"And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen.");
+ addV(b,73,25,"Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.");
+ addV(b,73,26,"My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.");
+ addV(b,84,2,"My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.");
+ addV(b,84,11,"For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly.");
+ addV(b,85,6,"Wilt thou not revive us again: that thy people may rejoice in thee?");
+ addV(b,85,10,"Mercy and truth are met together; righteousness and peace have kissed each other.");
+ addV(b,86,5,"For thou, Lord, art good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.");
+ addV(b,86,10,"For thou art great, and doest wondrous things: thou art God alone.");
+ addV(b,86,15,"But thou, O Lord, art a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth.");
+ addV(b,89,1,"I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.");
+ addV(b,89,8,"O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee?");
+ addV(b,90,14,"O satisfy us early with thy mercy; that we may rejoice and be glad all our days.");
+ addV(b,92,1,"It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O most High:");
+ addV(b,92,12,"The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.");
+ addV(b,93,1,"The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself.");
+ addV(b,95,1,"O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.");
+ addV(b,95,6,"O come, let us worship and bow down: let us kneel before the LORD our maker.");
+ addV(b,95,7,"For he is our God; and we are the people of his pasture, and the sheep of his hand.");
+ addV(b,96,1,"O sing unto the LORD a new song: sing unto the LORD, all the earth.");
+ addV(b,96,9,"O worship the LORD in the beauty of holiness: fear before him, all the earth.");
+ addV(b,97,1,"The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof.");
+ addV(b,97,12,"Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness.");
+ addV(b,98,1,"O sing unto the LORD a new song; for he hath done marvellous things:");
+ addV(b,98,4,"Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.");
+ addV(b,99,3,"Let them praise thy great and terrible name; for it is holy.");
+ addV(b,99,9,"Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy.");
+ addV(b,102,12,"But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations.");
+ addV(b,102,27,"But thou art the same, and thy years shall have no end.");
+ addV(b,104,1,"Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty:");
+ addV(b,104,24,"O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.");
+ addV(b,104,33,"I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being.");
+ addV(b,105,1,"O give thanks unto the LORD; call upon his name: make known his deeds among the people.");
+ addV(b,105,8,"He hath remembered his covenant for ever, the word which he commanded to a thousand generations.");
+ addV(b,107,1,"O give thanks unto the LORD, for he is good: for his mercy endureth for ever.");
+ addV(b,107,8,"Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!");
+ addV(b,107,14,"He brought them out of darkness and the shadow of death, and brake their bands in sunder.");
+ addV(b,110,1,"The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.");
+ addV(b,111,10,"The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments.");
+ addV(b,113,1,"Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD.");
+ addV(b,113,3,"From the rising of the sun unto the going down of the same the LORD's name is to be praised.");
+ addV(b,115,1,"Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake.");
+ addV(b,116,1,"I love the LORD, because he hath heard my voice and my supplications.");
+ addV(b,116,12,"What shall I render unto the LORD for all his benefits toward me?");
+ addV(b,117,1,"O praise the LORD, all ye nations: praise him, all ye people.");
+ addV(b,117,2,"For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD.");
+ addV(b,119,18,"Open thou mine eyes, that I may behold wondrous things out of thy law.");
+ addV(b,119,89,"For ever, O LORD, thy word is settled in heaven.");
+ addV(b,119,97,"O how love I thy law! it is my meditation all the day.");
+ addV(b,119,130,"The entrance of thy words giveth light; it giveth understanding unto the simple.");
+ addV(b,119,162,"I rejoice at thy word, as one that findeth great spoil.");
+ addV(b,119,165,"Great peace have they which love thy law: and nothing shall offend them.");
+ addV(b,121,8,"The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.");
+ addV(b,123,1,"Unto thee lift I up mine eyes, O thou that dwellest in the heavens.");
+ addV(b,124,8,"Our help is in the name of the LORD, who made heaven and earth.");
+ addV(b,125,1,"They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.");
+ addV(b,125,2,"As the mountains are round about Jerusalem, so the LORD is round about his people from henceforth even for ever.");
+ addV(b,126,3,"The LORD hath done great things for us; whereof we are glad.");
+ addV(b,126,5,"They that sow in tears shall reap in joy.");
+ addV(b,128,1,"Blessed is every one that feareth the LORD; that walketh in his ways.");
+ addV(b,130,5,"I wait for the LORD, my soul doth wait, and in his word do I hope.");
+ addV(b,130,7,"Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.");
+ addV(b,131,2,"Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.");
+ addV(b,133,3,"As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore.");
+ addV(b,134,1,"Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD.");
+ addV(b,134,2,"Lift up your hands in the sanctuary, and bless the LORD.");
+ addV(b,134,3,"The LORD that made heaven and earth bless thee out of Zion.");
+ addV(b,136,26,"O give thanks unto the God of heaven: for his mercy endureth for ever.");
+ addV(b,137,1,"By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.");
+ addV(b,137,4,"How shall we sing the LORD's song in a strange land?");
+ addV(b,138,1,"I will praise thee with my whole heart: before the gods will I sing praise unto thee.");
+ addV(b,138,6,"Though the LORD be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.");
+ addV(b,138,8,"The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever.");
+ addV(b,139,2,"Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.");
+ addV(b,139,7,"Whither shall I go from thy spirit? or whither shall I flee from thy presence?");
+ addV(b,139,10,"Even there shall thy hand lead me, and thy right hand shall hold me.");
+ addV(b,140,13,"Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.");
+ addV(b,141,2,"Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice.");
+ addV(b,143,8,"Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.");
+ addV(b,143,10,"Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness.");
+ addV(b,144,1,"Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight:");
+ addV(b,144,15,"Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD.");
+ addV(b,145,1,"I will extol thee, my God, O king; and I will bless thy name for ever and ever.");
+ addV(b,145,8,"The LORD is gracious, and full of compassion; slow to anger, and of great mercy.");
+ addV(b,145,13,"Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations.");
+ addV(b,145,21,"My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever.");
+ addV(b,146,1,"Praise ye the LORD. Praise the LORD, O my soul.");
+ addV(b,146,5,"Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:");
+ addV(b,146,10,"The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD.");
+ addV(b,147,1,"Praise ye the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.");
+ addV(b,147,5,"Great is our Lord, and of great power: his understanding is infinite.");
+ addV(b,148,1,"Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.");
+ addV(b,148,5,"Let them praise the name of the LORD: for he commanded, and they were created.");
+ addV(b,149,1,"Praise ye the LORD. Sing unto the LORD a new song, and his praise in the congregation of saints.");
+ addV(b,149,4,"For the LORD taketh pleasure in his people: he will beautify the meek with salvation.");
  g_bible.addBook(std::move(b));}
 
 {BibleBook b; b.name="Proverbs"; b.shortCode="Pro"; b.testament="OT";
@@ -1109,6 +1285,196 @@ const std::vector<Versicle> versicles={
 {{"L:","The Lord bless you and keep you."},{"R:","Thanks be to God."},
  {"L:","The Lord make his face shine upon you and be gracious to you."},{"R:","Thanks be to God."},
  {"L:","The Lord turn his face toward you and give you peace."},{"ALL:","Amen. Thanks be to God!"}}},
+// ── Extended Versicle Collection ─────────────────────────
+{"The Nicene Creed","Council of Nicaea, AD 325",
+{{"ALL:","We believe in one God, the Father Almighty,"},
+ {"ALL:","Maker of heaven and earth, and of all things visible and invisible."},
+ {"ALL:","And in one Lord Jesus Christ, the only-begotten Son of God,"},
+ {"ALL:","Begotten of the Father before all worlds; God of God, Light of Light,"},
+ {"ALL:","Very God of very God; begotten, not made, being of one substance with the Father."},
+ {"ALL:","By whom all things were made; who for us men and for our salvation came down from heaven."},
+ {"ALL:","And was incarnate by the Holy Spirit of the Virgin Mary, and was made man."},
+ {"ALL:","And was crucified also for us under Pontius Pilate; He suffered and was buried."},
+ {"ALL:","And the third day He rose again according to the Scriptures."},
+ {"ALL:","And ascended into heaven, and sits on the right hand of the Father."},
+ {"ALL:","And He shall come again with glory to judge both the living and the dead."},
+ {"ALL:","I believe in the Holy Ghost, the Lord and Giver of Life."},
+ {"ALL:","Who proceeds from the Father and the Son."},
+ {"ALL:","Who with the Father and the Son together is worshipped and glorified."},
+ {"ALL:","I believe in one holy universal and apostolic Church."},
+ {"ALL:","I acknowledge one baptism for the remission of sins."},
+ {"ALL:","And I look for the resurrection of the dead, and the life of the world to come. Amen."}}},
+{"Te Deum Laudamus","Ancient Hymn of Praise, 4th Century",
+{{"ALL:","We praise thee, O God; we acknowledge thee to be the Lord."},
+ {"ALL:","All the earth doth worship thee, the Father everlasting."},
+ {"ALL:","To thee all Angels cry aloud; the Heavens, and all the Powers therein."},
+ {"ALL:","To thee Cherubim and Seraphim continually do cry:"},
+ {"ALL:","Holy, Holy, Holy, Lord God of Sabaoth."},
+ {"ALL:","Heaven and earth are full of the majesty of thy glory."},
+ {"ALL:","The glorious company of the Apostles praise thee."},
+ {"ALL:","The goodly fellowship of the Prophets praise thee."},
+ {"ALL:","The noble army of Martyrs praise thee."},
+ {"ALL:","The holy Church throughout all the world doth acknowledge thee;"},
+ {"ALL:","The Father, of an infinite majesty; thine adorable, true, and only Son;"},
+ {"ALL:","Also the Holy Ghost, the Comforter."},
+ {"ALL:","Thou art the King of Glory, O Christ."},
+ {"ALL:","Thou art the everlasting Son of the Father."},
+ {"ALL:","Make them to be numbered with thy Saints, in glory everlasting."},
+ {"ALL:","O Lord, save thy people, and bless thine heritage."},
+ {"ALL:","Day by day we magnify thee; and we worship thy Name, world without end. Amen."}}},
+{"Nunc Dimittis","Song of Simeon — Luke 2:29-32",
+{{"ALL:","Lord, now lettest thou thy servant depart in peace, according to thy word:"},
+ {"ALL:","For mine eyes have seen thy salvation,"},
+ {"ALL:","Which thou hast prepared before the face of all people;"},
+ {"ALL:","A light to lighten the Gentiles,"},
+ {"ALL:","And the glory of thy people Israel."},
+ {"L:","Glory be to the Father, and to the Son,"},
+ {"R:","And to the Holy Ghost."},
+ {"ALL:","As it was in the beginning, is now, and ever shall be, world without end. Amen."}}},
+{"Magnificat","Song of Mary — Luke 1:46-55",
+{{"ALL:","My soul doth magnify the Lord,"},
+ {"ALL:","And my spirit hath rejoiced in God my Saviour."},
+ {"ALL:","For he hath regarded the low estate of his handmaiden."},
+ {"ALL:","For behold, from henceforth all generations shall call me blessed."},
+ {"ALL:","For he that is mighty hath done to me great things; and holy is his name."},
+ {"ALL:","And his mercy is on them that fear him from generation to generation."},
+ {"ALL:","He hath shewed strength with his arm; he hath scattered the proud."},
+ {"ALL:","He hath filled the hungry with good things; and the rich he hath sent empty away."},
+ {"ALL:","He hath holpen his servant Israel, in remembrance of his mercy."},
+ {"ALL:","As he spake to our fathers, to Abraham, and to his seed for ever."}}},
+{"Benedictus","Song of Zechariah — Luke 1:68-79",
+{{"ALL:","Blessed be the Lord God of Israel; for he hath visited and redeemed his people."},
+ {"ALL:","And hath raised up a horn of salvation for us in the house of his servant David."},
+ {"ALL:","As he spake by the mouth of his holy prophets, which have been since the world began:"},
+ {"ALL:","That we should be saved from our enemies, and from the hand of all that hate us."},
+ {"ALL:","To give knowledge of salvation unto his people by the remission of their sins."},
+ {"ALL:","Through the tender mercy of our God; whereby the dayspring from on high hath visited us."},
+ {"ALL:","To give light to them that sit in darkness and in the shadow of death,"},
+ {"ALL:","To guide our feet into the way of peace."}}},
+{"Gloria Patri","Doxology to the Trinity",
+{{"ALL:","Glory be to the Father, and to the Son, and to the Holy Ghost;"},
+ {"ALL:","As it was in the beginning, is now, and ever shall be,"},
+ {"ALL:","World without end. Amen. Amen."}}},
+{"The Great Litany","Ancient Litany of Intercession",
+{{"L:","From all evil and mischief; from sin, from the crafts of the devil,"},
+ {"R:","Good Lord, deliver us."},
+ {"L:","From all blindness of heart; from pride, vainglory, and hypocrisy,"},
+ {"R:","Good Lord, deliver us."},
+ {"L:","From lightning and tempest; from plague, pestilence, and famine,"},
+ {"R:","Good Lord, deliver us."},
+ {"L:","By the mystery of thy holy Incarnation; by thy holy Nativity,"},
+ {"R:","Good Lord, deliver us."},
+ {"L:","By thine agony and bloody sweat; by thy cross and passion,"},
+ {"R:","Good Lord, deliver us."},
+ {"L:","By thy precious death and burial; by thy glorious Resurrection,"},
+ {"R:","Good Lord, deliver us."},
+ {"L:","In all time of our tribulation; in the hour of death,"},
+ {"R:","Good Lord, deliver us."},
+ {"ALL:","O Lamb of God, that takest away the sins of the world, grant us thy peace."}}},
+{"Confession and Absolution","Common Prayer",
+{{"ALL:","Almighty and most merciful Father, we have erred and strayed from thy ways like lost sheep."},
+ {"ALL:","We have followed too much the devices and desires of our own hearts."},
+ {"ALL:","We have offended against thy holy laws."},
+ {"ALL:","We have left undone those things which we ought to have done;"},
+ {"ALL:","And we have done those things which we ought not to have done."},
+ {"ALL:","But thou, O Lord, have mercy upon us."},
+ {"ALL:","Spare thou those who confess their faults."},
+ {"ALL:","Restore thou those who are penitent."},
+ {"L:","The Almighty and merciful Lord grant you pardon and remission of all your sins."},
+ {"ALL:","Amen."}}},
+{"Veni Creator Spiritus","Come, Holy Spirit — Ancient Hymn",
+{{"ALL:","Come, Holy Ghost, our souls inspire, and lighten with celestial fire."},
+ {"ALL:","Thou the anointing Spirit art, who dost thy sevenfold gifts impart."},
+ {"ALL:","Thy blessed unction from above is comfort, life, and fire of love."},
+ {"ALL:","Enable with perpetual light the dullness of our blinded sight."},
+ {"ALL:","Anoint and cheer our soiled face with the abundance of thy grace."},
+ {"ALL:","Keep far our foes, give peace at home; where thou art guide no ill can come."},
+ {"ALL:","Teach us to know the Father, Son, and thee, of both, to be but One."},
+ {"ALL:","That through the ages all along this may be our endless song:"},
+ {"ALL:","Praise to thy eternal merit, Father, Son, and Holy Spirit. Amen."}}},
+{"Venite","Psalm 95 — Come Let Us Worship",
+{{"L:","O come, let us sing unto the LORD;"},
+ {"R:","Let us make a joyful noise to the rock of our salvation."},
+ {"L:","Let us come before his presence with thanksgiving,"},
+ {"R:","And make a joyful noise unto him with psalms."},
+ {"L:","For the LORD is a great God,"},
+ {"R:","And a great King above all gods."},
+ {"L:","O come, let us worship and bow down:"},
+ {"R:","Let us kneel before the LORD our maker."},
+ {"L:","For he is our God;"},
+ {"ALL:","And we are the people of his pasture, and the sheep of his hand."}}},
+{"Jubilate Deo","Psalm 100 — Be Joyful in God",
+{{"ALL:","O be joyful in the LORD, all ye lands;"},
+ {"ALL:","Serve the LORD with gladness, and come before his presence with a song."},
+ {"L:","Be ye sure that the LORD he is God;"},
+ {"R:","It is he that hath made us, and not we ourselves."},
+ {"ALL:","We are his people, and the sheep of his pasture."},
+ {"L:","O go your way into his gates with thanksgiving,"},
+ {"R:","And into his courts with praise."},
+ {"ALL:","Be thankful unto him, and speak good of his Name."},
+ {"ALL:","For the LORD is gracious; his mercy is everlasting;"},
+ {"ALL:","And his truth endureth from generation to generation."}}},
+{"Responsive Reading: Psalm 23","The Lord Is My Shepherd",
+{{"L:","The LORD is my shepherd;"},
+ {"R:","I shall not want."},
+ {"L:","He maketh me to lie down in green pastures:"},
+ {"R:","He leadeth me beside the still waters."},
+ {"L:","He restoreth my soul:"},
+ {"R:","He leadeth me in the paths of righteousness for his name's sake."},
+ {"L:","Yea, though I walk through the valley of the shadow of death,"},
+ {"R:","I will fear no evil: for thou art with me."},
+ {"L:","Thou preparest a table before me in the presence of mine enemies:"},
+ {"R:","Thou anointest my head with oil; my cup runneth over."},
+ {"ALL:","Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."}}},
+{"Responsive Reading: Psalm 46","God Is Our Refuge",
+{{"L:","God is our refuge and strength,"},
+ {"R:","A very present help in trouble."},
+ {"L:","Therefore will not we fear, though the earth be removed,"},
+ {"R:","And though the mountains be carried into the midst of the sea."},
+ {"L:","The LORD of hosts is with us;"},
+ {"R:","The God of Jacob is our refuge."},
+ {"ALL:","Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."}}},
+{"Responsive Reading: Psalm 91","Shelter of the Most High",
+{{"L:","He that dwelleth in the secret place of the most High"},
+ {"R:","Shall abide under the shadow of the Almighty."},
+ {"L:","I will say of the LORD,"},
+ {"ALL:","He is my refuge and my fortress: my God; in him will I trust."},
+ {"L:","He shall cover thee with his feathers,"},
+ {"R:","And under his wings shalt thou trust."},
+ {"L:","There shall no evil befall thee,"},
+ {"R:","Neither shall any plague come nigh thy dwelling."},
+ {"L:","For he shall give his angels charge over thee,"},
+ {"R:","To keep thee in all thy ways."},
+ {"ALL:","Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name."}}},
+{"Responsive Reading: Isaiah 40","Comfort Ye My People",
+{{"L:","Comfort ye, comfort ye my people, saith your God."},
+ {"R:","He shall feed his flock like a shepherd."},
+ {"L:","Hast thou not known? hast thou not heard,"},
+ {"R:","That the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not?"},
+ {"L:","He giveth power to the faint;"},
+ {"R:","And to them that have no might he increaseth strength."},
+ {"ALL:","But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."}}},
+{"An Order for Evening Prayer","Vespers",
+{{"L:","The Lord Almighty grant us a quiet night and a perfect end."},
+ {"R:","Amen."},
+ {"L:","Our help is in the name of the LORD,"},
+ {"R:","Who made heaven and earth."},
+ {"L:","Let us confess our sins to God."},
+ {"ALL:","Almighty God, Father of our Lord Jesus Christ, maker of all things, judge of all men: we acknowledge and bewail our manifold sins and wickedness."},
+ {"ALL:","Have mercy upon us, most merciful Father."},
+ {"L:","Keep me as the apple of the eye;"},
+ {"R:","Hide me under the shadow of thy wings."},
+ {"ALL:","In peace I will both lie down and sleep; for thou alone, O LORD, makest me dwell in safety."}}},
+{"Call to Worship","Psalm 34 & Psalm 100",
+{{"L:","O magnify the LORD with me,"},
+ {"R:","And let us exalt his name together."},
+ {"L:","Enter into his gates with thanksgiving,"},
+ {"R:","And into his courts with praise."},
+ {"L:","The LORD is good;"},
+ {"R:","His mercy is everlasting."},
+ {"L:","O taste and see that the LORD is good:"},
+ {"R:","Blessed is the man that trusteth in him."},
+ {"ALL:","Praise ye the LORD!"}}},
 };
 
 void showVersiclesMenu(){
