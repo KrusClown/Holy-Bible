@@ -8,5 +8,6 @@
 
 
 # Command Run
+```text
 sh build.sh
 ./holybible
